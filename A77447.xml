@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief narrative of the harbor, of the ancient town of Rye in the county of Sussex, with the present state thereof, and reasons for preservation of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77447</idno>
+            <idno type="STC">Wing B4613A</idno>
+            <idno type="STC">ESTC R223955</idno>
+            <idno type="EEBO-CITATION">99899755</idno>
+            <idno type="PROQUEST">99899755</idno>
+            <idno type="VID">135669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2440:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief narrative of the harbor, of the ancient town of Rye in the county of Sussex, with the present state thereof, and reasons for preservation of the same.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Public General Acts. 1548-1549. 2 &amp; 3 Edw.IV.c.30 --  Early works to 1800.</term>
+               <term>Harbors --  England --  Rye --  Early works to 1800.</term>
+               <term>Harbors --  Maintenance and repair --  Early works to 1800.</term>
+               <term>Rye (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135669:1" rendition="simple:additions"/>
+            <head>A BRIEF NARRATIVE OF THE HARBOR, Of the Ancient Town of <hi>RYE</hi> in the County of <hi>Suſſex,</hi> with the pre<g ref="char:EOLhyphen"/>ſent State thereof, and Reaſons for Preſervation of the ſame.</head>
+            <argument>
+               <p>
+                  <add>To bee heard at the Board this preſent day</add>
+               </p>
+            </argument>
+            <p>THe multiplicity of good Havens and Harbors for Ships to reſort to in Storms, and lye ſafe when arrived, being no ſmall bleſſing the Great Creator hath beſtowed on this King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and conducing ſo much to the benefit thereof: it becomes a duty incumbent to all Eng<g ref="char:EOLhyphen"/>liſhmen to endeavour their Preſervation. And the care there<g ref="char:EOLhyphen"/>of, and proviſion for the ſame (when falling to decay) hath not been thought unworthy of the Prudence and Policy of His Majeſty, and His Royal Progenitors, and the Repre<g ref="char:EOLhyphen"/>ſentatives
+<pb n="2" facs="tcp:135669:2"/>of the whole Nation in the High Court of Parliament: As may be ſufficiently proved, not only by the ſeveral Acts and Statutes there made touching the ſame; but by the ſums of Money ſometimes furniſhed out of the Exchequer it ſelf to that purpoſe.</p>
+            <p>And although the Harbour of the Ancient Town of <hi>Rye</hi> in the County of <hi>Suſſex,</hi> was never yet Chargeable to the publique Treaſure of the Nation: Yet hath that Great Councel and Court of the King and Kingdom, <hi>viz.</hi> the Parliament provided againſt the dammage thereof, in order to its Preſervation; not only in general with other Har<g ref="char:EOLhyphen"/>bors, by the Statute 34 <hi>Hen.</hi> 8. cap. 9. But in particular, by the Statute made on purpoſe 2 <hi>Ed.</hi> 6. cap. 30. <hi>That no Bal<g ref="char:EOLhyphen"/>laſt,</hi> &amp;c. <hi>be thrown into the Harbors of</hi> Rye, <hi>or</hi> Winchelſea, <hi>under the penalty of forty Shillings per Tun.</hi>
+            </p>
+            <p>Whoſoever knows the Harbor of <hi>Rye,</hi> and ſhall ſeri<g ref="char:EOLhyphen"/>ouſly and impartially conſider the ſtate and condition there<g ref="char:EOLhyphen"/>of, and the benefit and advantage thereby, continually accrewing to many thouſands both Natives and Aliens: will find ſeveral weighty and enforcing Reaſons to con<g ref="char:EOLhyphen"/>tinue the preſervation thereof, although it were to be done at the Charge of the whole Nation.</p>
+            <p>This Harbor of <hi>Rye</hi> conſiſts principally (at this time, <hi>viz.</hi> 1677.) in one main Channel, running in from the Sea, which lyes Northweſt and Southeaſt, or very near there<g ref="char:EOLhyphen"/>to. On the Southweſt ſide of the Channel lyes a Bar of Sand, which Veſſels repairing to the Harbor, muſt leave the Larboard ſide as they go in. If they come from the Eaſt<g ref="char:EOLhyphen"/>ward, they may take their ſoundings from the <hi>Camber</hi> Beach, which reaches from the <hi>Neſs</hi> point, to the Harbor, and ſo run in. If they come from the Weſtward bound for the Harbor, there be two Marks which ſtand on the ſaid <hi>Camber</hi> Beach, on the Eaſt ſide of the Harbor, about two Miles without the ſaid Harbor, which muſt be kept one
+<pb n="3" facs="tcp:135669:2"/>with the other. And this courſe will bring the ſaid Veſſels (ſo making for the Harbor) clear of the tail: of the Sand aforeſaid, till they bring two other Marks (which ſtand one of them upon the Cliffe of the Town, and the other on the point of the Caſtle Beach, at the Weſt ſide of the Har<g ref="char:EOLhyphen"/>bor) to bear one with the other, and then the ſaid Veſſels may run right into the Harbor. And giving the point laſt mentioned a little diſtance, may Anchor in three Fa<g ref="char:EOLhyphen"/>thom water, at low water; or as it pleaſeth run aſhore at the Eaſt ſide of the Town, if they be deſtitute of Anchors and Cables, and lye very ſafe.</p>
+            <p>Into this Harbor four ſeveral Waters empty themſelves, and ſo run out into the Sea; which have ſerved, and ſtill are, the natural means, to cleanſe, ſcoure, open and maintain the ſaid Harbor Navigable. Of which, two are on the Weſt ſide of the Town and Harbour, and the other two on the Eaſt ſide thereof.</p>
+            <p>The firſt on the Weſt ſide, is called <hi>Tillingham</hi> Channel, or Water taking its riſe four Miles from the Town, Sewing the Lowlands on that ſide, between <hi>Brede</hi> and <hi>Beckley,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>dimer</hi> and <hi>Peaſmarch,</hi> and antiently was much wider, and the indraught thereof more large, then now it is; becauſe ſeveral parcells of Land have been Inned from the ſame within memory. And lately, to wit, about two years ſince, the preſent Tennant of <hi>Cadborough</hi> Farm in <hi>Rye</hi> aforeſaid, hath preſumed of his own authority (without any Patent, Commiſſion of <hi>Sewers,</hi> or Writ, <hi>ad quod damnum</hi>) to Inne about a hundred Acres of Salts, uſually before this Inning flowed by the Sea. This <hi>Tillingham</hi> Channel, is that which to preſerve, the Major, Jurats and Commonality of <hi>Rye</hi> in the eight and thirtieth year of Q. <hi>Eliz.</hi> Reigne, were at the Charge of ſix hundred Pounds to lay a Sluce, in part of thoſe very Salts now incloſed (the Channel then running there.) About two Miles up in this Channel, have Ships of
+<pb n="4" facs="tcp:135669:3"/>con<g ref="char:EOLhyphen"/>ſiderable burden been remembred by ſome yet living, to load Timber: So good was it then, before ſpoiled by the Innings aforeſaid.</p>
+            <p>The ſecond is <hi>Winchelſea</hi> Channel, runing up from <hi>Rye</hi> thither, and ſo through the Levells and Lowlands of <hi>Ickle<g ref="char:EOLhyphen"/>ſham, Pet, Geſtling,</hi> and on the South ſide of <hi>Brede</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>dimer,</hi> and beyond <hi>Brede</hi> Bridge further into <hi>Weſt<g ref="char:EOLhyphen"/>field,</hi> &amp;c. Sewing a great quantity of Mariſh grounds a<g ref="char:EOLhyphen"/>bove eight Miles from <hi>Rye</hi> up in the Country. This Chan<g ref="char:EOLhyphen"/>nel was within theſe twenty years laſt paſt ſo annoyed and ſtopped by a Sluce laid croſs, and Groines made therein, to, and croſs the very bottom thereof: That the ſaid Levells could not Sew. So as His Majeſties Commiſſioners of Sew<g ref="char:EOLhyphen"/>ers, for the ſaid Levels were neceſſitated to order the taking up the ſaid Sluce laſt mentioned, and Groines placed in the Channels as foreſaid, and thereby, and by deepning the ſaid Channel about the mouth of their Sewers, and height<g ref="char:EOLhyphen"/>ning their Walls, have reaped much benefit, and ſecured the ſaid Lands by the one, from lying drowned by the Freſh, and by the other, from being drowned by the Salt<g ref="char:EOLhyphen"/>water.</p>
+            <p>The third and leaſt conſiderable, is that called <hi>Wenway</hi> water, or Channel lying to the Eaſt of the ſaid Town of <hi>Rye,</hi> and on the land ſide of the <hi>Camber</hi> Beach aforemen<g ref="char:EOLhyphen"/>tioned, and formerly hath been deep enough for ſeveral Veſſells to Anchor in, and had remained better then now it is; but that Lands have there been Inned, and more are ſaid to be about Inning. this yet ſerves to Sew a good part of the Lands in Eaſt <hi>Guldeford Marſh,</hi> the Lands cal<g ref="char:EOLhyphen"/>led <hi>Camber</hi> Lands, <hi>&amp;c.</hi>
+            </p>
+            <p>The fourth and moſt remarkable, is that Ancient and ſometime Navigable River of <hi>Rother,</hi> running into the Main Channel of the Harbor at the Eaſt ſide of the Town, and by the Weſt ſide of Eaſt <hi>Guldeford,</hi> deſcending
+<pb n="5" facs="tcp:135669:3"/>from <hi>Appledore,</hi> and ſo from <hi>Redding, Smalhithe, Maytam, Newenden, Bodiham, Rothersbridge,</hi> and as far as <hi>Rother<g ref="char:EOLhyphen"/>field</hi> in <hi>Suſſex</hi> above four and twenty Miles from <hi>Rye,</hi> ſerving to Sew many thouſand Acres of Land on the South, North, and Weſt ſides thereof, and on the Eaſt ſide between <hi>Ap<g ref="char:EOLhyphen"/>pledore</hi> and <hi>Rye</hi> in <hi>Shurlemere</hi> about 2000 Acres of land. In the five Watrings in <hi>Romney</hi> Marſh about 9000 Acres. And in <hi>Woolland</hi> Marſh 20000 Acres, beſides a great part of <hi>Eaſt Guldeford</hi> Marſh. And on the Weſt ſide in <hi>Witterſham</hi> Level, about 3000 Acres. This River hath been reported of old, Navigable as far as <hi>Bodiham</hi> Caſtle, in the Walls whereof were ſaid to be faſtened Moaring Rings for Veſſells. And there are thoſe yet living, that heard an Ancient Shipwright of <hi>Rye</hi> ſay, that he helpt build one of Q. <hi>Eliz.</hi> Navy Ships at <hi>Redding</hi> aofrementi<g ref="char:EOLhyphen"/>oned. And until the Dam or Sluce laid about ten years ſince (by order of the Comiſſioners of Sewers for <hi>Newenden</hi> Level) croſs this River; was it Navigable to <hi>Appledore</hi> afore<g ref="char:EOLhyphen"/>ſaid, which is about ſeven Miles from <hi>Rye.</hi> For in the year 1661. was built at <hi>Appledore,</hi> a Ship of the burden of one hun<g ref="char:EOLhyphen"/>dred Tuns, or thereabouts, for one <hi>William Bowers</hi> of <hi>Dover.</hi> And about half a Mile from that, was another near the ſame burden, built for one Captain <hi>Morecock,</hi> in the year 1656. both above the place where the ſaid Dam or Sluce is laid. And it is well known by many yet living, that before the laying of this Dam, or Sluce, and within theſe twenty years laſt paſt, and leſs; more then twenty Sail of good Ships might Ride afloat at low Water in the Harbor of <hi>Rye,</hi> as high up as the Ferry to <hi>Eaſt-Guldeford</hi> aforeſaid; where now there is ſo great a Swarve, that none can lye. And beyond that, there is hardly water enough for a ſmall Lighter to go to the place where the Stop is. Nor can a Veſſel of much ſmaller Burden, then His Majeſties Ship the St. <hi>Andrew</hi> was, (who with the <hi>Happy Return</hi> came into
+<pb n="6" facs="tcp:135669:4"/>this Harbor in <hi>September</hi> 1666.) Ride afloat at low water where they did.</p>
+            <p>Theſe things conſidered, it is eaſie to ſee what it is which threatens the utter ruine and decay of this Harbor, if not ſpeedily prevented, and what reaſon there is for pre<g ref="char:EOLhyphen"/>ſerving thereof; which being duly weighed with thoſe that follow, it would be a wonder if it ſhould be ſlighted or neglected: As,</p>
+            <p>Firſt, Among others, becauſe this Harbor of <hi>Rye</hi> is, and time out of mind hath been, ſo great a ſuccour for Mer<g ref="char:EOLhyphen"/>chants and Mariners in Storms, to ſave both their Lives, Ships and Goods, there being no other Harbour for which Ships in foul weather dare deal between the <hi>Downes,</hi> and Iſle of <hi>Wight;</hi> (this nigh eighty Miles to the Weſtward, and that about Forty Miles to the Eaſtward.) And this Port ſo fitly ſcituate in times of War, ſerves for no ſmall ſhelter and refuge to Ships chaſed by any Pyrate or Forreign Ene<g ref="char:EOLhyphen"/>my; into which, as experience hath often teſtified, they put for ſecurity, who if they had further to run, would fall as prey or prize, into the hands of their Enemies.</p>
+            <p>Secondly, The goodneſs of the Harbor, as for Ships to ride in three Fathom water afloat at low water, as afore<g ref="char:EOLhyphen"/>ſaid; and uſually there flows about five Fathom water on the top of the Stream, which makes the Harbor capacious to receive a great Fleet of Ships of conſiderable burden; whereby the ſaid Harbor is rendred as good a Tide-Har<g ref="char:EOLhyphen"/>bor as moſt in <hi>England,</hi> and better then any one the <hi>French</hi> Coaſt all along the Narrow. Beſides, Veſſels have here the conveniency of cleaning a dry, or careening afloat, or for Tallowing and Victualling: And Boats ready, when Ships by any ſign ſhall make for the Harbor to pilot them in.</p>
+            <p>Thirdly, The advance of Trade, and thereby of His Ma<g ref="char:EOLhyphen"/>jeſties Cuſtoms, ſeeing the better any Port is, the more it is frequented; and the more reſort thereto, the more Victu<g ref="char:EOLhyphen"/>als
+<pb n="7" facs="tcp:135669:4"/>are ſpent, and Merchandiſe there imported and exported.</p>
+            <p>Fourthly, By keeping the Harbor good, in removing the ſtops on the aforeſaid River of <hi>Rother,</hi> and other Channels, the In-draughts thereby being increaſed: the whole Coun<g ref="char:EOLhyphen"/>try thereabouts will receive benefit to lade and unlade their Goods in the ſaid River and Channels, as anciently they have done, at far more eaſie rates then by Land-carriage; And to ſew their Lands better then now they are ſewed, if the Channels be but deepened, and their Walls heightned; for thereby, as aforeſaid, they will be ſecured againſt dam<g ref="char:EOLhyphen"/>mage by the freſh and ſalt Waters, and with leſs charge; whereas now, their Waterſcots on the Low-lands in ſeveral of the <hi>Rother</hi> Sewers aforeſaid, are more then the Rents and Profits of their Lands; ſo as many have let their Mariſh Lands lapſe into the Commiſſioners hands, rather then keep them to ſuch diſadvantage.</p>
+            <p>Fifthly, If the Harbor of <hi>Rye</hi> be ſuffered to periſh, not only <hi>Rye,</hi> but <hi>Haſting,</hi> will be ruined thereby: for they having but a ſtade place, are forced to lay up their Veſſels of burden in the Harbor of <hi>Rye.</hi>
+            </p>
+            <p>To all which, others may be added, which for brevity ſake are here omitted, and the conſideration of all, com<g ref="char:EOLhyphen"/>mitted to them concern'd in the premiſſes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135669:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
